@@ -2,3 +2,9 @@
 ChaiCode Assignment to Create Dev Tool Landing Page - Cursor
 
 Access the site from - https://sammyfit.github.io/Assignment-Dev-Tool-Landing-Page/
+
+HTML - index.html
+CSS - Cursor.css
+
+/images - All Images used in buidling the website
+/logos - Specific Logs used
